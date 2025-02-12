@@ -1,0 +1,14 @@
+{% extends 'F_D.html' %}
+
+{% block content %}
+    <h1>
+              <b>!USERS MESSAGES!</b>
+    </h1>
+
+
+    <ul>
+        {% for ab_item in object_list %}
+            <li>{{ ab_item.text }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
