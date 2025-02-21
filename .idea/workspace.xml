@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e15cda6c-4cd6-4464-a66b-1b3c9df8f5d2" name="Changes" comment="" />
+    <list default="true" id="e15cda6c-4cd6-4464-a66b-1b3c9df8f5d2" name="Changes" comment="New versain">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Amin-moniry-pr7/Django_Code.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Amin-moniry-pr7/DJANGO_CODES.git&quot;,
     &quot;accountId&quot;: &quot;2343b0eb-e5fc-41d1-9c90-e41ce4ba9d64&quot;
   }
 }</component>
@@ -73,7 +77,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/python/1_Python_Codes_VS code_2",
+    "last_opened_file_path": "D:/python/HTML_Learn",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +92,31 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Django Server.Python_Tests">
+  <component name="RunManager" selected="Django Server.Django_Learn">
+    <configuration name="Django_Learn" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_Learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python_Tests" type="Python.DjangoServer" factoryName="Django server">
       <module name="Python_Tests" />
       <option name="ENV_FILES" value="" />
@@ -166,8 +194,22 @@
       <workItem from="1739276440797" duration="594000" />
       <workItem from="1739277450774" duration="79000" />
       <workItem from="1739386520499" duration="3441000" />
-      <workItem from="1739390110091" duration="6747000" />
+      <workItem from="1739390110091" duration="7068000" />
+      <workItem from="1739435827352" duration="93000" />
+      <workItem from="1739448713777" duration="540000" />
+      <workItem from="1739449337295" duration="1000" />
+      <workItem from="1739456408140" duration="593000" />
+      <workItem from="1739719425179" duration="1586000" />
     </task>
+    <task id="LOCAL-00001" summary="New versain">
+      <option name="closed" value="true" />
+      <created>1739398134619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739398134619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +225,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New versain" />
+    <option name="LAST_COMMIT_MESSAGE" value="New versain" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
