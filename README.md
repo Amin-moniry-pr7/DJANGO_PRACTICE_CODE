@@ -151,6 +151,36 @@ To run your Django application, make sure you have completed the installation an
    - After starting the server, navigate to `http://127.0.0.1:8000/` in your browser to view the list of messages from the `ab` model, rendered using the `S_D.html` template.
 
 ---
+
+
+
+## 🛠 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Amin-moniry-pr7/DJANGO_PRACTICE_CODE.git
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Set up your environment variables:
+   - Create a `.env` file in the root directory and configure your settings like the secret key.
+
+4. Apply migrations:
+   ```bash
+   python manage.py migrate
+   ```
+
+5. Create a superuser to access the Django Admin:
+   ```bash
+   python manage.py createsuperuser
+   ```
+
+
+   
 ## 📜 License
 🔖 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License.**
 
