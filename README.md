@@ -180,6 +180,17 @@ To run your Django application, make sure you have completed the installation an
    ```
 
 
+## 🔧 Git Commands
+To set up a Git repository and push changes:
+```bash
+🚀 git init
+📌 git add *
+📝 git commit -m "Django_Project"
+🔗 git remote add amin "repository_address"
+⬆ git push amin master
+```
+
+
    
 ## 📜 License
 🔖 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License.**
@@ -194,5 +205,5 @@ You are free to use and modify this code for non-commercial purposes.
 
 You can find the full code of the project on GitHub at the following link:
 
-[GitHub Repository](https://github.com/Amin-moniry-pr7/DJANGO_PRACTICE_CODE.git)
+https://github.com/Amin-moniry-pr7
 
